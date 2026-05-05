@@ -77,6 +77,7 @@ Units Sold	1.13M
 - Pricing optimization is required
 
 🛠️ Tools Used
+
 Tableau
 Excel
 
