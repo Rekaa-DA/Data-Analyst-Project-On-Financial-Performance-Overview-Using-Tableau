@@ -1,3 +1,5 @@
+💰 Financial Performance Overview
+
 📊 Dashboard Preview
 
 <img width="1672" height="815" alt="jun 29 new " src="https://github.com/user-attachments/assets/7826e595-f76d-4a08-b0c3-d4255f927072" />
