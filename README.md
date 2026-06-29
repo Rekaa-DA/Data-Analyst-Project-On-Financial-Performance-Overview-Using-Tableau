@@ -1,7 +1,6 @@
 📊 Dashboard Preview
 
-<img width="1658" height="767" alt="image" src="https://github.com/user-attachments/assets/fc7d63f5-732b-4d0c-b5a0-0d2103b2bed6" />
-
+<img width="1920" height="1080" alt="jun 29 new" src="https://github.com/user-attachments/assets/e9d211ed-34b2-4150-8b89-620418a30364" />
 
 📌 Project Summary
 
